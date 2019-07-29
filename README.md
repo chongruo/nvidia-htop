@@ -1,6 +1,13 @@
 # nvidia-htop
 
-A tool for enriching the output of `nvidia-smi`.
+A tool for enriching the output of `nvidia-smi
+
+# TO-DO
+* show all threads for fetching data
+* remove the right most line
+* change command name
+* check arguments of nvidia-smi
+* feature: -l 1 (it is conflicted with the current command)
 
 # Install
 `pip install .`
